@@ -1,18 +1,5 @@
 package main
 
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
-
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func Test_002() {
 	// l1 := genListNode([]int{1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1})
 	l1 := genListNode([]int{1, 0, 6, 9, 0, 1})

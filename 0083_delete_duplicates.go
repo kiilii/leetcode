@@ -1,12 +1,5 @@
 package main
 
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
 // 2023.07.21
 // 执行用时：0 ms, 在所有 Go 提交中击败了 100.00% 的用户
 // 内存消耗：3 MB, 在所有 Go 提交中击败了 59.81% 的用户
